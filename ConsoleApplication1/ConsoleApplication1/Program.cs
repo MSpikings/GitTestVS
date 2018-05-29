@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("This is my first C# app");
             Console.WriteLine("this is the second C#");
-            Console.WriteLine("Bobob");
+            Console.WriteLine("Hi mate");
         }
     }
 }
